@@ -34,6 +34,7 @@ This project was built as a hands-on exercise to practice authentication, securi
 
 <!-- GIF goes here -->
 ![Demo GIF](demo.gif)
+![SupaBaseAuthNotes](https://github.com/user-attachments/assets/69ae4340-668f-4465-8bc9-c7faebd340f8)
 
 ---
 
